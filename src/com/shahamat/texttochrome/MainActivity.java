@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.casthelloworld;
+package com.shahamat.texttochrome;
 
 import com.google.android.gms.cast.ApplicationMetadata;
 import com.google.android.gms.cast.Cast;
